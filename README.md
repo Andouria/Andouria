@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a programmer who wants to create games and other projects during my college years! 
+I'm a programmer who wants to projects during my college years! 
 I'm currently learning how to use Godot!
 
-My current projects are:
-- A GUI that specializes in notes and databases
-- Two personal games
 
-Fun Fact: I can obliterate cakes in seconds. 😀
